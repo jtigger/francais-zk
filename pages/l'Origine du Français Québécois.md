@@ -9,7 +9,7 @@
 			- au Nord, c'est Poitiers
 			- à l'ouest, c'est Niort, et
 			- à l'est c'est Parthenay.
-			-
+	-
 - Où est Bretagne?
 - Où est Île-de-France?
 -
