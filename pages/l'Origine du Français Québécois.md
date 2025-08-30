@@ -5,15 +5,16 @@
 - Où est Poitou?
 	- Le Poitou est une ancienne province de France...
 		- en grande partie, c'est le région Nouvelle-Aquitaine (dans le ouest de la France)
+			- [Google Maps](https://www.google.com/maps/place/Nouvelle-Aquitaine,+France/@46.6416725,-0.7320206,6.6z/data=!4m6!3m5!1s0x47fe53fd1a44e8df:0x8c9efad54eeee0f4!8m2!3d45.5990651!4d0.6142169!16s%2Fg%2F11b6s7_sr5?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D)
 		- il y a un triangle qui marque le cœur du Poitou:
 			- au Nord, c'est Poitiers
 			- à l'ouest, c'est Niort, et
 			- à l'est c'est Parthenay.
-	-
 - Où est Bretagne?
 - Où est Île-de-France?
 -
--
+- ChatGPT (GPT5) a diré
+  id:: 68b319c6-8fc4-42d2-91e6-0e54309776b3
 - ### Réponse : L’origine du français québécois
 - **Colonisation française (17ᵉ siècle)**
 	- Entre 1608 (fondation de Québec par Champlain) et 1760, environ **10 000 colons français** s’installent en Nouvelle-France (Québec, Acadie, Louisiane).
