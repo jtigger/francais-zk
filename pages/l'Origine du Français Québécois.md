@@ -5,7 +5,7 @@
 - Où est Poitou?
 	- Le Poitou est une ancienne province de France...
 		- en grande partie, c'est le région Nouvelle-Aquitaine (dans le ouest de la France)
-		- il y a un triangle qui marque le Poitou:
+		- il y a un triangle qui marque le cœur du Poitou:
 			- au Nord, c'est Poitiers
 			- à l'ouest, c'est Niort, et
 			- à l'est c'est Parthenay.
