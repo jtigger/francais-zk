@@ -15,7 +15,8 @@
 	-
 - Où est Île-de-France?
 	- Dans le central-nord en France (ce n'est pas une île!!!)
-		- c'est parce qu'on appelait «Île» une
+		- C'est parce qu'on appelait «Île» une région entourée par des rivières.
+		-
 	- [Google Maps](https://www.google.com/maps/place/%C3%8Ele-de-France,+France/@47.0546618,0.0237997,6.73z/data=!4m6!3m5!1s0x47e5e1c403a68c17:0x10b82c3688b2570!8m2!3d48.8499198!4d2.6370411!16zL20vMDVxcTZt?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D)
 -
 -
