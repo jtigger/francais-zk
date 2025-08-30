@@ -1,4 +1,9 @@
-- O
+- Où est Normandie?
+	- L
+- Où est Poitou?
+- Où est Bretagne?
+- Où est Île-de-France?
+-
 -
 - ### Réponse : L’origine du français québécois
 - **Colonisation française (17ᵉ siècle)**
