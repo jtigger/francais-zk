@@ -11,10 +11,12 @@
 			- à l'ouest, c'est Niort, et
 			- à l'est c'est Parthenay.
 - Où est Bretagne?
+	-
 - Où est Île-de-France?
 -
 - ChatGPT (GPT5) a dit
   id:: 68b319c6-8fc4-42d2-91e6-0e54309776b3
+  collapsed:: true
 	- ### Réponse : L’origine du français québécois
 	- **Colonisation française (17ᵉ siècle)**
 		- Entre 1608 (fondation de Québec par Champlain) et 1760, environ **10 000 colons français** s’installent en Nouvelle-France (Québec, Acadie, Louisiane).
