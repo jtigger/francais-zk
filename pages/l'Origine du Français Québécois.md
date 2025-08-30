@@ -1,10 +1,11 @@
 - Où est Normandie?
-	- Le nord de la France
+	- Dans le nord de la France
 	- [Google Maps](http://google.com/maps/place/Normandie,+France/@49.0107919,-0.5662131,8.35z/data=!4m6!3m5!1s0x47e1bd6c23f8c087:0x26f2f1561148e202!8m2!3d48.8798704!4d0.1712529!16s%2Fg%2F121c9r7n?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D)
 	-
 - Où est Poitou?
 	- Le Poitou est une ancienne province de France...
-		- en grande partie, c'est le région Nouvelle
+		- en grande partie, c'est le région Nouvelle-Aquitaine (dans le ouest de la France)
+	-
 - Où est Bretagne?
 - Où est Île-de-France?
 -
