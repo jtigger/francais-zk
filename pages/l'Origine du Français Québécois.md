@@ -14,7 +14,8 @@
 	- [Google Maps](https://www.google.com/maps/place/Bretagne,+France/@46.3123816,-2.8414012,5.95z/data=!4m6!3m5!1s0x4811ca61ae7e8eaf:0x10ca5cd36df24b0!8m2!3d48.2020471!4d-2.9326435!16zL20vMGdsYjU?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D)
 	-
 - Où est Île-de-France?
-	-
+	- Dans le central-nord en France (c)
+	- [Google Maps](https://www.google.com/maps/place/%C3%8Ele-de-France,+France/@47.0546618,0.0237997,6.73z/data=!4m6!3m5!1s0x47e5e1c403a68c17:0x10b82c3688b2570!8m2!3d48.8499198!4d2.6370411!16zL20vMDVxcTZt?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D)
 -
 -
 - ChatGPT (GPT5) a dit
