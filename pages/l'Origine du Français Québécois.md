@@ -4,7 +4,7 @@
 	-
 - Où est Poitou?
 	- Le Poitou est une ancienne province de France...
-	-
+		- en grande partie, c'est le région Nouvelle
 - Où est Bretagne?
 - Où est Île-de-France?
 -
